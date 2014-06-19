@@ -1,4 +1,4 @@
-These files are 18F's contributions to GSA's enterprise data inventory (submitted to OMB) and [public data listing](http://www.gsa.gov/data.json).  
+These files are 18F's contributions to GSA's enterprise data inventory (submitted to OMB) and [public data listing](http://www.gsa.gov/data.json).  We're including the information in json and csv for convenience.  
   
 Note that GSA staff will need to insert the appropriate identifiers or provide guidance for them.  
 
